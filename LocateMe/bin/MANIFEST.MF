@@ -1,0 +1,285 @@
+Archive-Manifest-Version: 1.2
+Archive-Created-By: BlackBerry Tablet OS Air BAR Packager 1.1.1
+
+Package-Type: application
+Package-Author: Checkwell Decision Inc.
+Package-Author-Id: gYAAgOzdRcO06WLDXVvQeQkr9DE
+Package-Name: LocateMebc7e625adad8b779c59a25362ae306d
+Package-Id: testDev_25362ae306df96d8358
+Package-Version: 1.0.0.0
+Package-Version-Id: testMS4wLjAuMCAgICAgICAgICA
+Package-Architecture: armle-v7
+
+Application-Name: Locate Me!
+Application-Id: testDev_25362ae306df96d8358
+Application-Description: Locate Me!
+Application-Version: 1.0.0.0
+Application-Version-Id: testMS4wLjAuMCAgICAgICAgICA
+Application-Category: core.all
+Application-Requires-System: Tablet OS/1.0.7.0
+Application-Development-Mode: true
+
+Entry-Point-Name: Locate Me!
+Entry-Point: WEBKIT_TABS_SUPPORTED=false WEBKIT_CONTEXT_MENU_SUPPORTED=false WEBKIT_SELECTION_SUPPORTED=false WEBKIT_WEBGL_SUPPORTED=true WEBKIT_NUMBER_OF_BACKINGSTORE_TILES=6 app/air/LocateMe-app.xml
+Entry-Point-Type: Qnx/Air
+Entry-Point-Icon: air/appicon.png
+Entry-Point-Orientation: portrait
+Entry-Point-User-Actions: read_geolocation,access_internet
+
+Archive-Asset-Name: air/LocateMe.swf
+Archive-Asset-SHA-512-Digest: EVDlENncCpxmKtFmuPqyQUiZLwLcBtUbQUTNURO52jM0vHA1WOcUc3JKy7JACmwGpdJF_ZNGetCbneXlJHjL3g
+
+Archive-Asset-Name: air/appicon.png
+Archive-Asset-SHA-512-Digest: It7jeLBABcfYJXX0dgFi9_uxG5DuVdx8cDPx6yiWyEbfSU3GTQNC3dF7H04IORmUQpbKCyjHZhPRva5820YFRA
+
+Archive-Asset-Name: air/blackberry-tablet.xml
+Archive-Asset-SHA-512-Digest: qv3725ZR3blUhBVUD9B7lP8MKslf_9lP9M5sS0yStmm7jbxx29T30Gru3hS8OhrjeKVr7_a5vk8bHFscpF4QUw
+
+Archive-Asset-Name: air/config.xml
+Archive-Asset-SHA-512-Digest: ONyMfNuQbu1X9S5IuyPhgEGxFRX5YvUfRP0Z0XgBZOQhysop1vrQNLihzzjU0E4V7wFUO7ReGN7uk2SG5dxvGQ
+
+Archive-Asset-Name: air/images/atm.png
+Archive-Asset-SHA-512-Digest: wj-ahHxmC8RlrVvmoFc1k2Yjw-OvldnzBaFFfw_HQsOfvbC9Sz_BhADUPO9duatKu82c5OH9kCJu9SVwQcxatg
+
+Archive-Asset-Name: air/images/bigcity.png
+Archive-Asset-SHA-512-Digest: 2yCCGOgOMy5Q2DrXl6N2otCn3bgu2G7kHo29SqGXn9WOert7enm3wEkytSgggpmdCFqb8ZEkrksq4vWEoFztYg
+
+Archive-Asset-Name: air/images/bigCityBlack.png
+Archive-Asset-SHA-512-Digest: fzZ4pE75T1OMldidYTnUr-0zc1IrrHM5EvMkDs10UbQQFXk3aItpFJC-qjtEg_C8RmmY5qm7ENkeplFwe7kXWw
+
+Archive-Asset-Name: air/images/button.png
+Archive-Asset-SHA-512-Digest: dvY2-Zx4Q9GoYhuf_mkNg3Ba1THYm0SfPQ_UZqsMyfkUCXlFdQr7soVltv_kjRz7DQ0LEDwoF9Ku8tmfS9-AEQ
+
+Archive-Asset-Name: air/images/button_0.jpg
+Archive-Asset-SHA-512-Digest: E-8DB7iRRK_Y2WkS5Xz6_jZ-yTfzHKftOgYPcRBozz6Oy_SQQ0moXCs0WaqXxsPR_YYyizJqPxSO_OYAJiOkSQ
+
+Archive-Asset-Name: air/images/button_0.png
+Archive-Asset-SHA-512-Digest: 8pYSDlcHHqlg0vSPBrafGP6nxFCFTpyiotghrWW6-sfYw5PDpoFJCyHsUZWiJqhvZCGgxybUDh-_ZBFSlo7i8w
+
+Archive-Asset-Name: air/images/city.jpg
+Archive-Asset-SHA-512-Digest: H8jgMZ_dazjvLMu2hdUzMDB5sSKuBBE58y40bnne2jk-E8cgNdBMBdklZvSTt-RGfkEBnd2o9lup6T62sjg81A
+
+Archive-Asset-Name: air/images/city.png
+Archive-Asset-SHA-512-Digest: 8Z91UeeZ6vnP4jpwnbf9s_oP3BynnrQT7M83EDeORSqD-WCaD2Z-9Ee4NeZ9oLMXUq5dT6n6jQZzH-Vw7RN3Cg
+
+Archive-Asset-Name: air/images/citysquare.png
+Archive-Asset-SHA-512-Digest: 7xjcMNdzsW2WmX_TukHU8rhRjRuiUildM_Mu5KQuyypqXV4Ju-ydYesq1rGzGsGIf2X1D1neHUdLqWXal2vOwg
+
+Archive-Asset-Name: air/images/exit.png
+Archive-Asset-SHA-512-Digest: 30yJFAfA7P_lL_0N9_9cXzNbY5oqAMFWWgDmUiibCgIzs__fXXU5OtpcIsqnvH_AueyQjO5P6HyDq42NWk8R6g
+
+Archive-Asset-Name: air/images/fireStation.png
+Archive-Asset-SHA-512-Digest: jpKskVX6-mb78WEAdIn49PsCB76vBaFDI0YyMOaMoxENR8kJqai2vX1eCXlNMd_wiBXd0fBDg4Ya3xrfjCBUVw
+
+Archive-Asset-Name: air/images/gasStation.png
+Archive-Asset-SHA-512-Digest: NOI9CWwv7XjYFQT34crDZeT2xSETKz-yBIU8PEDJVRdnCup1eoOLuJ_Nc6gXxlC_X78UsZre0ZuOBmipl-JU0A
+
+Archive-Asset-Name: air/images/glider.png
+Archive-Asset-SHA-512-Digest: XcGxPc_qAxkXgbzYtA5pXVUlY-XYSID5jZuV0MhNdkwyZdsaLVBAz7F8FEdnPrMMVNU0lqzanB0d-QsICM7YgQ
+
+Archive-Asset-Name: air/images/googleMarker.png
+Archive-Asset-SHA-512-Digest: CU3hxLOS1HU85PxfgCzRgb1SkB3z5ggfZn4NosRDRsKQKlQTNZrUDcoSRCtjLRPwiBIqX5voB0OUmba7kFUpTw
+
+Archive-Asset-Name: air/images/hide.png
+Archive-Asset-SHA-512-Digest: xMLl_FLWaBhyKLMbE3rikov4t0P3GpXz_QMvj2rpQtEJ5YksfoEeRsnVUKNzkSiUpNI7joa_yRqNW188lUtC-Q
+
+Archive-Asset-Name: air/images/home-2.png
+Archive-Asset-SHA-512-Digest: EVR2KyFdGGxQeF-euupmajfcMRmyRkot2fii-R_dt9Mq7CXOnFGm_J0UTypdphNMsWDMPmY1ES_wmO7-vOxf9g
+
+Archive-Asset-Name: air/images/hospital.png
+Archive-Asset-SHA-512-Digest: jggt8Pt1ltkSqswgE31aVLuAqa9y3LBu63oCwy_k7JmQh-jNzHXAAtr0L0tJhtSMoM-D5P9QpDzS0Orp-smcgQ
+
+Archive-Asset-Name: air/images/hotel.png
+Archive-Asset-SHA-512-Digest: BxdId_wR6rqvI5jVBZDygfHxws2UodQ1dlbUOredc8dWcnYyk6TFSNJ08hBBsxNR-j6Plz6jI0hm0iQahe_55w
+
+Archive-Asset-Name: air/images/icon.png
+Archive-Asset-SHA-512-Digest: PrJoTPhbbGXhaWs1dTUD68z07p7BEUffzgUk0ly0vpm7c9CFBpfifo3SMDwVeZOPHXQKznY04WVGr5vgLLu5sg
+
+Archive-Asset-Name: air/images/information.png
+Archive-Asset-SHA-512-Digest: HpjwYKJuQSJyCd89i68XtAvASdvCSssS4bYuMxS4ADLli-tIdvLCvp6V1_Jt5pAGnAU7i7o-fsj1qH7ghF_YXQ
+
+Archive-Asset-Name: air/images/loader.gif
+Archive-Asset-SHA-512-Digest: n5TkgzAnevVV567w8o-hVyP_pCaNXQk8c3wMfMgoNcyAA8QMEl3P5SVtW9-VSLSwIUgIuf0MwGrcFF7VPwztsA
+
+Archive-Asset-Name: air/images/logo.jpg
+Archive-Asset-SHA-512-Digest: 5Gw8uDfpe4NtTaQEVKxjNr8K1x2t4fqDXt05ZMPWL_q2g2ukuKtI5sAgzU21_-12bvIgn9E6hxY2FS3R608wtQ
+
+Archive-Asset-Name: air/images/logo.png
+Archive-Asset-SHA-512-Digest: XHE-ezeSXb1WERDqg_SBGIRehbd7FOaq3XoAN8e4S8laiBRmgwmt79UUmWXLhdQd_EF_RuSExUUHk_VtDAHYTQ
+
+Archive-Asset-Name: air/images/logo2.png
+Archive-Asset-SHA-512-Digest: E4NVTq9F2Z97Oi-ldnpzCFh9m4iWaTh8LXCX_jEvYDDBJwVknKefjlrS-AkXQu70Q6Cb7kkmrhYPcrRoETUusw
+
+Archive-Asset-Name: air/images/logo3.png
+Archive-Asset-SHA-512-Digest: jxoHLJBznmoAKuG8eiTXxUffjsBW5AqPsuo3PFPIYfoIt0tNhwZnBXSGh2S-MhOWB8TVibWoBAukQ07p5tr1mQ
+
+Archive-Asset-Name: air/images/logo_small.png
+Archive-Asset-SHA-512-Digest: 4ZerXYXZUV7_fskYZBfuLyzueopZ3nUrVZ60kyTGf2wOdsb70iRLh0BbvedsHlRpTxMsUXhBnmu-YN4VumUwcA
+
+Archive-Asset-Name: air/images/Makati.jpg
+Archive-Asset-SHA-512-Digest: 3I7p3dtDCLXWyQbB05h2nMw5FrKTDnzpIavBSFczYKFQPDiCHpzfqdX9KvchTxrRsO9yPy4WXPlSvVXfygk6JA
+
+Archive-Asset-Name: air/images/MyLocation.gif
+Archive-Asset-SHA-512-Digest: 8dx5E0dj4hXDAvbmQhTz_RiiKNfj7gi9BUnacUwetuIveYSgTKAmfWS2Uz8FnxHpSZ4Mj0wuLt4J_zbMqBtPtQ
+
+Archive-Asset-Name: air/images/MyLocation.png
+Archive-Asset-SHA-512-Digest: wVXn25hBJDkEgeOrO3dFaVDwvKM_1hTIbIkHT4AH0q4h0Sf0CDCMrx_XHv-WBSoQCHlnBT4x5_-olNz8u8_dQQ
+
+Archive-Asset-Name: air/images/online.gif
+Archive-Asset-SHA-512-Digest: U4NN3z4Vlg1SUErOudK8JVP5vTvHDknqv0NzBWpzJc4NTnnUszCIf0aPX9COZXf0MqJdKaP_rhtibchXmViiKA
+
+Archive-Asset-Name: air/images/pharmacy.png
+Archive-Asset-SHA-512-Digest: FDwu5hJIjFL-xrSy6xHS9n7L1-aZjj6MaiBxZaihr5GM5Ic_Y71iy0Q-FMeYlL8soekkESZJAFL-5RWPm6gQPw
+
+Archive-Asset-Name: air/images/police.png
+Archive-Asset-SHA-512-Digest: oW55sPMG3-8n6FZu9TaMx1Dr8cOL_oRM1t_pOPt-8yl2RwCdra7J4utpE8NQFEj03P436vlguuIqycLIG0ESbQ
+
+Archive-Asset-Name: air/images/purchase.gif
+Archive-Asset-SHA-512-Digest: 9Tri9n0cXxhmpVQhCyeGVnoJCfZWiiZKN5I4cZD6TpxifUbT5H11wZ9DzOj0mjMy77tJ83MvlhKcDy4n6hsP5Q
+
+Archive-Asset-Name: air/images/purchase.png
+Archive-Asset-SHA-512-Digest: 3KoNzaZzLy8enm0iLGK3rGSfp4OFYIBAcriiTv-XfGmxRbaH53VTP1t3-wuLrSERNiHyh3zHLamK5S2qpJhLyA
+
+Archive-Asset-Name: air/images/school.gif
+Archive-Asset-SHA-512-Digest: 9FibotD_Edu41PGjLvNLjnEcAYqGq9YBw6fhbUg7qM-Kzn996DBmYVBYvJSF98tAJJ94xy_1qNw7NLxEqzz9Cg
+
+Archive-Asset-Name: air/images/school.png
+Archive-Asset-SHA-512-Digest: jT-ULfw7Y7F40icV3hcpvJnTRtKuGA6ZDCY5iGw_wo7KnmI87xzBWYvVu85DV0QG-F076DIhBzfgEkE8ZHDJRw
+
+Archive-Asset-Name: air/images/settings.gif
+Archive-Asset-SHA-512-Digest: V68sP7QFFTYHnUva9VjrR-9nP_0jjxeBUvy_8CasSk1hsKFX8_iQWbF0Za9tk9MFKsDGiqKsxAC8gFeulqMflw
+
+Archive-Asset-Name: air/images/settings.png
+Archive-Asset-SHA-512-Digest: riaa8j3g4DVnGtv12DUD26ONGFPBdMs_i1FwJ_cuzpXJZ3bYdUzhIjsX4-GfPplnV6306mBgfl-CmzwoO8Gpfw
+
+Archive-Asset-Name: air/images/show.png
+Archive-Asset-SHA-512-Digest: P3E-r9Jy7SA3c2oKoiXu9gy68i_6ybcb7XNho1YZGcPfmNiJnUkNHREGpNxTAgpiIvTSau0LOMTdbzpytSbwEA
+
+Archive-Asset-Name: air/images/zoom_in.png
+Archive-Asset-SHA-512-Digest: WteupalS4WpudlUnK9Y4BD7a7x5MikZgHF3nCcifa70XoLqfLIunMjaVBzuEkGi6WcyWdfiA9mqv5fogYQEnsw
+
+Archive-Asset-Name: air/images/zoom_out.png
+Archive-Asset-SHA-512-Digest: vipzvDl0qtLzLqS0YN1nX_Q4v9v8o2qc2SrCCYVBdDYHbCUJXQe-b5p8Qa78wo1sdGB4b0Sf_ttW7IZ4pzkJyA
+
+Archive-Asset-Name: air/index.html
+Archive-Asset-SHA-512-Digest: nyHRv-4y-e_2uwxPDP1py7jy3QTDWPN07ysGC76LNxcuCG-tH9bRagXow_jIPm-rhnA2lzh-557PhVaW4KBJHg
+
+Archive-Asset-Name: air/scripts/blackberryFile.js
+Archive-Asset-SHA-512-Digest: q9f1eU1VL7RlqcT49ypS0xBHxlhpDqlbHveh9RjVx3BHdR0tFnAQJuQ1Y2txjfc3I-nwQjO-d_Cuqi3V9xR2LA
+
+Archive-Asset-Name: air/scripts/entities.js
+Archive-Asset-SHA-512-Digest: dw2CHuZXGMs0UoftNDKC7YAmwXotqrzyosx5pXKc7a-qUdUbF56TlyfNuuaug-g0cNcKqzWMH-BolkqKH5ZiIw
+
+Archive-Asset-Name: air/scripts/geo.js
+Archive-Asset-SHA-512-Digest: Kg0KGVJU6bjVN0rnxRQkNLT3g34eb4K1Iru3S2oDwxC1nULLNCeKAIS6-XqSXoK0RQFOZ2Qm2v9umtIDbBCQhw
+
+Archive-Asset-Name: air/scripts/googleMaps.js
+Archive-Asset-SHA-512-Digest: VNVbNOMJAuRN8ni0ANH87r3zFGLlIAO6MvGt5XrQmYCSWDFOmB4e09S8q4mOlJYUWTQWo-77V0YND21RCwJ_0g
+
+Archive-Asset-Name: air/scripts/images/help.gif
+Archive-Asset-SHA-512-Digest: cX42wguT_mPzViBAanRvDjwSYlU1Q97XsR72VorO6yTeXfrgm9JILgqnjax0qDNd_7xmsGFsrbKk_54z8wT9pQ
+
+Archive-Asset-Name: air/scripts/images/important.gif
+Archive-Asset-SHA-512-Digest: -aNdH8Uwcs0ULFn1cmd0rHW4Pum6SCH4uKlsfZC5gWqVtQeVriUVOkpbDzqmuWtAO2moUVLrqIJX8c_a2fEL6Q
+
+Archive-Asset-Name: air/scripts/images/info.gif
+Archive-Asset-SHA-512-Digest: Kq0iit7d__wrB42KWSyouEPVMyIdGlnGdKKWBtGYFp3ZRa4_wK3ym15a_lEcZDIqtxBF3HSvuMWl0o5Ajm_IhQ
+
+Archive-Asset-Name: air/scripts/images/title.gif
+Archive-Asset-SHA-512-Digest: oPeZaDzgGE7ArlTf7sHhpMOWKpYtuQ688AiE65G49AaptD5AWaYYXfRsNoBB-OvWxRI4XMjKixMjqe3rj-x3VA
+
+Archive-Asset-Name: air/scripts/jquery-1.4.1.js
+Archive-Asset-SHA-512-Digest: 9Pp0l75Wd6IIB_einErqyoKee-uM2BiFLDDWRjOffZGraUIqfEzLezg7bjpcBln_Z-2i6ExdfgM-Sv1-UjVbdw
+
+Archive-Asset-Name: air/scripts/jquery-1.4.1.min.js
+Archive-Asset-SHA-512-Digest: 6skw6I9KMy_KXl4eJtGLlcooEdLHU8YCGYcfI08Mqqup-GQsDLhmtFSV6ylzTZ5eZxOWMtIfQO5xMRELkbMcuA
+
+Archive-Asset-Name: air/scripts/jquery.alerts.css
+Archive-Asset-SHA-512-Digest: h0xdoI8NcemU-uyZeC8Q27cPifMPEhMpKr-2vQggIghSEh6hJQSHvybJzYgz1Jav0yBmWTskU9K28ImGAP7jcw
+
+Archive-Asset-Name: air/scripts/jquery.alerts.js
+Archive-Asset-SHA-512-Digest: p4rnDM3m6iclH7rmVtBq7EYwDEJb0Ej_agrEj6njG1ykdBQy51RtizAstsgHyhrubPZ0ouwIzR364Mlym0QGcQ
+
+Archive-Asset-Name: air/scripts/leaflet.js
+Archive-Asset-SHA-512-Digest: bhO3bmlYD3cUUZvl7fUzxQJ6dVSpmeaqHV7hnyjIOshof1yB6dzM6cb6IoGffKD_meavhzwSnBq7NiFnIN9-jA
+
+Archive-Asset-Name: air/scripts/leafletMaps.js
+Archive-Asset-SHA-512-Digest: yaGz_TOw9ch8QclxF4vi6ZwNBpcv5zbSs_Nl3fvqy4ZqBIeBLx5IYJNUr4BjEzIs4FCo9L_DRfa0xNl5pDPe2A
+
+Archive-Asset-Name: air/scripts/main.js
+Archive-Asset-SHA-512-Digest: 62zqHe5vreR-vj9H_GQ2yA68TWA5yk88DTqUmsV1fvbGaDqn6YbQ_IpGnQ9X-VA_wK2N7mPmNPDtuMhx4gGtww
+
+Archive-Asset-Name: air/scripts/storedb.js
+Archive-Asset-SHA-512-Digest: 9QrxSlK1TGmF4FdP-5w74s0zktEMdbIltwbxQ4nFWSPCHmyCnASwjHQsOkaDMg8gPR-wD1PFO9YzZ3-GH5qYVw
+
+Archive-Asset-Name: air/scripts/zepto.js
+Archive-Asset-SHA-512-Digest: PAoSVp-981NjNDyIa-5_V7C4FT0VBNAEfAzFFttbvZHJ4S6bjTIbTh5Klx4BoDs0Q1n7WUhdN9i2sqr38v2dDQ
+
+Archive-Asset-Name: air/StyleSheets/leaflet.css
+Archive-Asset-SHA-512-Digest: xCv-WhaWGzBdGoTBTzpmKPMH7AsezVRVwWQySschTFFGsmW4alAgzX8yWa6-vkDC1IlCAqx736fRJB09kgsNpw
+
+Archive-Asset-Name: air/StyleSheets/style.css
+Archive-Asset-SHA-512-Digest: ZZRizDE2-LHiicxOYE_uMwsWwWffiqRIwrNbUWKpdykxntCUcu2LqgxCUUp3qs2Y9FEkrtUj9156TNtlHN2wIQ
+
+Archive-Asset-Name: air/WebWorksApplicationSharedJsRepository0/blackberry_application_Application/js/common/app_dispatcher.js
+Archive-Asset-SHA-512-Digest: Uklu_hHoMfoYWrZwK2kuzvxwfiAD0mxfjzoLXoyZxuuHVinrwo8nZJ1ok0rQUx7V66UgAwoZ9tyGZ4EipKV2Rw
+
+Archive-Asset-Name: air/WebWorksApplicationSharedJsRepository0/blackberry_application_Application/js/common/app_ns.js
+Archive-Asset-SHA-512-Digest: Imz47NkxXEtWtev8zMl9OV9lxg6MSgXBlFLlXrA-VOakEi84m3_EVJX098kWzf0p6zOJ9SrBGjxkpL7SSdZFYg
+
+Archive-Asset-Name: air/WebWorksApplicationSharedJsRepository0/blackberry_io_dir_DirectoryExtension/js/common/dir_dispatcher.js
+Archive-Asset-SHA-512-Digest: 512IwN64IPdy6dJt-03nyS5K18pNkHhxuMEK7H5ZZQyfrcKyXi69weRCsUZP80okebyRfRmu7TOuH9W_QrtQeA
+
+Archive-Asset-Name: air/WebWorksApplicationSharedJsRepository0/blackberry_io_dir_DirectoryExtension/js/common/dir_ns.js
+Archive-Asset-SHA-512-Digest: CFvoUyER5h1RsD1_9blUfFnyILyw4myu34FWAcvVba42lPZzuBRbvbrYCkKPeTp45yq3PUf3CZMpPpmp5qCStQ
+
+Archive-Asset-Name: air/WebWorksApplicationSharedJsRepository0/blackberry_io_file_FileExtension/js/common/file_dispatcher.js
+Archive-Asset-SHA-512-Digest: 0GqF_b11IH5v2aJoOdPnzYMGcQ0fsIPi4omIZJWeZK-mLNOg2rWYHMhJGhP6k0nCykclge3H3YmFD4WkjS6NqA
+
+Archive-Asset-Name: air/WebWorksApplicationSharedJsRepository0/blackberry_io_file_FileExtension/js/common/file_ns.js
+Archive-Asset-SHA-512-Digest: NQz1L7I9txxX1d9G8TODLe3oPWOAiqyyNtil9K_Aa__DtuIBke3NDY425DZP-aQqnI6QBy3KnIgeldc9KGrJJQ
+
+Archive-Asset-Name: air/WebWorksApplicationSharedJsRepository0/blackberry_payment_Payment/js/common/payment_dispatcher.js
+Archive-Asset-SHA-512-Digest: 8iwjWIlMMQa8Y4gL26Qqmc3l8zT0UoBmfLx-7ZP92C-jqkdV_JKF0_eXqI6aYVmF9-8B781IyCmGYh1y-v2gLw
+
+Archive-Asset-Name: air/WebWorksApplicationSharedJsRepository0/blackberry_payment_Payment/js/common/payment_ns.js
+Archive-Asset-SHA-512-Digest: ypNfzSAyh6citoco-SvuYdmnznNl5i0kuMM0aZvvg7qzXT0lc12-HXLe38I3eR5WTGxiIHUoCAVMiJsHn0yocw
+
+Archive-Asset-Name: air/WebWorksApplicationSharedJsRepository0/blackberry_system_System/js/common/system_dispatcher.js
+Archive-Asset-SHA-512-Digest: LKk_Qa90c6KgfOcdRWqNz9HshNwXnzpWoI-rCVa-RbMjnjm4_HlGHkorvqVjTSXRjZXXqukU_xx0PnRNmeV3gg
+
+Archive-Asset-Name: air/WebWorksApplicationSharedJsRepository0/blackberry_system_System/js/common/system_ns.js
+Archive-Asset-SHA-512-Digest: RL2THakZas2Cu8PQcADANO3HX_rPvsb6PhElhUi8u5FTeTdx0MgEclhCoSrA16XcHEZZU5WPXrbHR1BbnsAnqQ
+
+Archive-Asset-Name: air/WebWorksApplicationSharedJsRepository0/blackberry_ui_dialog_Dialog/js/common/dialog/dialog_dispatcher.js
+Archive-Asset-SHA-512-Digest: CwQrKjN_KMwVjgq3X4iK-PCCkxNHHYZ9VqL4VaYhxHEHnig4L-eef7GSSYfzuyTOxIcYoX4CabmI98mJs8Dctw
+
+Archive-Asset-Name: air/WebWorksApplicationSharedJsRepository0/blackberry_ui_dialog_Dialog/js/common/dialog/dialog_ns.js
+Archive-Asset-SHA-512-Digest: SKXKerudJksnMNDagGMQkkSwhm-cpPLkuGbLpZLJShFGouw3bqgAFS7yKF0jdzDGPkEBftiJnKX2KHn8l7fd9g
+
+Archive-Asset-Name: air/WebWorksApplicationSharedJsRepository0/blackberry_utils_Utilities/js/common/utilities_dispatcher.js
+Archive-Asset-SHA-512-Digest: ez7FfQub_N9UO1pHHgc6GvLpxSBZwi132ZP1XWY5DH7zzwQPNW9RkQms-TuPuL_Kx1NowpW2uyaf8oMxil13yA
+
+Archive-Asset-Name: air/WebWorksApplicationSharedJsRepository0/blackberry_utils_Utilities/js/common/utilities_ns.js
+Archive-Asset-SHA-512-Digest: sEtB4Gnz1Sn8ADZuZ46mbh5rBL_h3tZC5_cBUs9D83DJTNO1oA70xo73DVLrwGqpV4V1au6tFs1zw5ml4jg98w
+
+Archive-Asset-Name: air/WebWorksApplicationSharedJsRepository0/sharedglobal/1_constants.js
+Archive-Asset-SHA-512-Digest: gXtthYLIRN61f8feb2-VgdVtN3z25-5gfElIf07kUooIiX8JNJOpI-foI0KhumVDY7J8tHF29k8E6vIOOhcBag
+
+Archive-Asset-Name: air/WebWorksApplicationSharedJsRepository0/sharedglobal/2_blackberry_ns.js
+Archive-Asset-SHA-512-Digest: NoY516tCaTbITuLnkX0w1AP2C7_C5TuL3hGEfLzl8fPy-Hv7NgWdqlxdyEZl0ZU6PRmJXELOTSbl7QzUBZM3ow
+
+Archive-Asset-Name: air/WebWorksApplicationSharedJsRepository0/sharedglobal/3_xhr.js
+Archive-Asset-SHA-512-Digest: iXe8QKi58_fhO6c8n2T3rZidZZDvRsn1BJUO82vWdGRjs20m-LeZKjZm2wsxlrwCLc4FDggjUD7inloSwn-vhQ
+
+Archive-Asset-Name: air/WebWorksApplicationSharedJsRepository0/sharedglobal/4_events_ns.js
+Archive-Asset-SHA-512-Digest: -YJAaL3O6Yusz2MKTAjqX4EvNI7Il0FarA0wojBnbWVWvdIiUz4lEdoDZXkHcOUxD8fbF8CA4Dzpx32jGGs7OQ
+
+Archive-Asset-Name: air/WebWorksApplicationSharedJsRepository0/sharedglobal/5_blackberry_service_dispatcher.js
+Archive-Asset-SHA-512-Digest: m3MIqcCfQENLE2VoevlePKoFZorttQhyM5NrqCEf7tekv3IS7sMpVqO6WKbQlyVFrRBaWQe6E2Oxy5ce1SIAvw
+
+Archive-Asset-Name: air/WebWorksApplicationSharedJsRepository0/sharedglobal/6_blackberry_service_ns.js
+Archive-Asset-SHA-512-Digest: _WCL-oXN-VosFCa1zlEOZLpHSSaCBFQA7pWSw-U5DfB4t65FGs-QGAXvqeMLEXkKnD0ewPw6I6mjO13KIZwAyw
+
+Archive-Asset-Name: air/LocateMe-app.xml
+Archive-Asset-SHA-512-Digest: Y80y8XJnEFV83MOHOmMg5m-ZdaEn6eupsMug63kT1bz0ARINsc1y7o8h1g-yQB7W1PBUlILaikYLFJ9kDiVOVw
